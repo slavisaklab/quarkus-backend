@@ -44,3 +44,5 @@ node-frontend/node_modules
 quarkus-backend/bin/
 .DS_Store
 .vscode/settings.json
+
+.idea
